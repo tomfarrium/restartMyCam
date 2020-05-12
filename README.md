@@ -5,3 +5,5 @@ Tool to reset input devices(WebCam&amp;Microphone) on MacBook
 Можно обойтись и без неё, просто введя в терминале: sudo killall VDCAssistant
 Интерфейс программы запрашивает пароль администратора для доступа к устройствам системы и выполняет команду с правами root.
 Помочь автору программы вы можете на странице https://github.com/tomfarrium/restartMyCam/blob/master/Donate
+Для сборки и работы программы просто создайте новый проект в Automator на языке apple script, и скопируйте туда, строку из файла https://github.com/tomfarrium/restartMyCam/blob/master/source_code
+Выберите "сохранить" и задайте скрипту имя. Перенесите файл в папку "Программы" Вашего Mac, и используйте, если утройства перестали отвечать(Зависли)
