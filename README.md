@@ -8,7 +8,7 @@ You can help the author of the program on the page https://github.com/tomfarrium
 
 To build and run the program, just create a new project in Automator using the apple script language, and copy there, a line from the file https://github.com/tomfarrium/restartMyCam/blob/master/source_code Select "save" and give the script a name. Transfer the file to the "Programs" folder of your Mac, and use if the devices stop responding (Stuck or hang etc.)
 
-Or download the zip archive of the program and unzip it to the "Programs" folder
+Or download the zip archive of the program and unzip it to the "Application" folder
 
 Ru:
 
