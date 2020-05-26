@@ -6,7 +6,7 @@ A simple apple script program that runs in the Automator and reboots the stuck c
 
 You can help the author of the program on the page https://github.com/tomfarrium/restartMyCam/blob/master/Donate
 
-To build and run the program, just create a new project in Automator using the apple script language, and copy there, a line from the file https://github.com/tomfarrium/restartMyCam/blob/master/source_code Select "save" and give the script a name. Transfer the file to the "Programs" folder of your Mac, and use if the devices stop responding (Stuck or hang etc.)
+To build and run the program, just create a new project in Automator using the apple script language, and copy there, a line from the file https://github.com/tomfarrium/restartMyCam/blob/master/src.sh Select "save" and give the script a name. Transfer the file to the "Programs" folder of your Mac, and use if the devices stop responding (Stuck or hang etc.)
 
 Or download the zip archive of the program and unzip it to the "Application" folder
 
@@ -18,7 +18,7 @@ Ru:
 
 Помочь автору программы вы можете на странице https://github.com/tomfarrium/restartMyCam/blob/master/Donate
 
-Для сборки и работы программы просто создайте новый проект в Automator на языке apple script, и скопируйте туда, строку из файла https://github.com/tomfarrium/restartMyCam/blob/master/source_code. Выберите "сохранить" и задайте скрипту имя. Перенесите файл в папку "Программы" Вашего Mac, и используйте, если утройства перестали отвечать(Зависли)
+Для сборки и работы программы просто создайте новый проект в Automator на языке apple script, и скопируйте туда, строку из файла https://github.com/tomfarrium/restartMyCam/blob/master/src.sh. Выберите "сохранить" и задайте скрипту имя. Перенесите файл в папку "Программы" Вашего Mac, и используйте, если утройства перестали отвечать(Зависли)
 
 Либо скачайте zip архив программы и распакуйте её в папку "Программы"
 
